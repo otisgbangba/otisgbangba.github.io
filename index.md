@@ -229,7 +229,7 @@ Background : An experienced Multi-Cloud Engineer, having gotten cerified as an A
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>Powered by <a href="https://www.juliusotitolaiye.website/w3css/default.asp" target="_blank">juliusotitolaiye.website</a></p>
+  <p>Powered by <a href="https://www.juliusotitolaiye.website/w3css/default.asp" target="_blank">https://juliusotitolaiye.website</a></p>
 </footer>
 
 </body>
