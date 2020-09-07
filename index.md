@@ -45,6 +45,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+body {background-color: grey;}
+h1 {color:blue;}
+   font-family: verdena;
+   font-size: 300%;
+}
+p {
+   color: red;
+   font-family: courier;
+   font-size: 160%
+}
 </style>
 <body class="w3-light-grey">
 
