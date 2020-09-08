@@ -56,6 +56,17 @@ p {
    font-size: 160%
 }
 </style>
+<body>
+
+<header>
+	<img src="Snapshot_20120504_3.jpg" alt="My pic. snapshot" class="snapshot">
+	<nav>
+		<ul>
+			<li><a href="">Home</a></li>
+			<li><a href="">About</a></li>
+			<li><a href="">Contact</a></li>
+		</ul>
+	</nav>
 <body class="w3-light-grey">
 
 <!-- Page Container -->
