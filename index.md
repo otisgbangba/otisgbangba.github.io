@@ -175,23 +175,8 @@ Background : An experienced Multi-Cloud Engineer, having gotten cerified as an A
 •	Produce periodic plant performance reports
 •	Monitor key plant performance indicators while plant is running on process net trends;
 •	Administrative work such as filing, updating and reviewing of alarm trip responses
-•	Perform mass balance calculations to detect loss of production.
-•	Escalate strange trends as per work operating procedures;
-•	Conduct shift start checks on all plants
-•	Investigate standing alarm at start of shift
-•	Monitor rotating equipment and machines vibrations on live trends and take appropriate action when necessary. 
-•	Prepare and circulate daily production report, outage report etc;
-•	Conduct periodic site visit and  site safety audit;
-•	Monitor and report anticipated cost of power of all plants on BANNA intranet.
-•	Liaise with Sales and Marketing department for products load out schedule from the plants;
-•	Liaise with the Sales and Marketing department in order to have knowledge of Products versus demand (PVD) and tune plants accordingly.
-•	Participate in HAZOP and plant efficiency review
-•	Monitor shift handover reports/notes
-•	Produce incident and outage reports
-•	Identify underperforming plant equipment and carry-out root cause analysis
-•	Train and assess newly employed BANNA engineers;
-•	Prepare training materials and deliver classroom/practical training to BANNA engineers;
-•	Involve in plants commissioning.</p>
+•	Perform mass balance calculations to detect loss of production.</p>
+
           <hr>
         </div>
         <div class="w3-container">
